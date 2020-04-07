@@ -44,3 +44,7 @@ class Student {
 		//TODO
 	}
 }
+class Course
+{
+   List<Student> student=new ArrayList<Student>();
+}
